@@ -1,0 +1,13 @@
+This product""LIBRARY MANAGEMENT SYSTEM " is created to keep up records of offers, buy and staff records. The book shop gives 
+the customers software-based shopping through a user interface. The motivation behind this 
+product is to deal with the books in the bookshop. It includes the request handling and stock 
+availability. We built up this product to keep up records of offers, buy and staff records.
+In this system all records are saved in the database for generating a report i.e., Storing the 
+information in a systematic way for future use. In present system during issuing order for more 
+stock, the product table is required to check to availability of stock in hand, and it takes time to 
+check records. In each process whether it is product management, maintaining customer 
+transactions, payment management or making report, user must pay attention to a greater 
+extent while performing the tasks. Bookstore management software is for monitoring and
+controlling the transactions in a bookstore. Our software is easy to use for everyone, for 
+administrators as well as beginners. It features a familiar and friendly, an attractive user 
+interface, combined with strong searching insertion and selection capabilities.
